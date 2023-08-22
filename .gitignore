@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+../React-Auth/src/firebase.js
 
 # testing
 /coverage
